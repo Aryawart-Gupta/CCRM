@@ -6,7 +6,7 @@ This is a console-based Java SE application for managing students, courses, enro
 
 ## How to Run
 1.  **JDK Version:** Requires Java SE 17 or higher (developed on JDK 21).
-2.  **Clone the repository:** `git clone <your-repo-link>`
+2.  **Clone the repository:** `git clone https://github.com/Aryawart-Gupta/CCRM
 3.  **Compile & Run:** Open the project in an IDE like Eclipse and run the `edu.ccrm.cli.Main` class.
 4.  **Enable Assertions:** To run with assertions enabled (for the demo), use the VM argument `-ea`.
 
